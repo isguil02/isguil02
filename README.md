@@ -1,22 +1,24 @@
 ### Hi there, I'm Isaiah Guilliatt 👋
 
-Welcome to my GitHub profile! I'm Isaiah, but you can call me isguil02 around here.
+Welcome to my GitHub profile! I'm Isaiah.
 
 #### 🎓 About Me:
-- I'm a freshman currently studying **Computer Science** and considering a double major in **Web Analytics**.
-- Learning and growing every day, with classes in **C++**, **Java**, and **JavaScript**, along with a bit of self-taught **Python**.
-- No major contributions yet, but I'm passionate about coding and excited to embark on new projects.
+- I'm a freshman currently studying **Computer Science** and considering a double major in **Web Analytics** at wayne state college.
+- I'm excited to start learning new things and explore.
+- No major contributions yet, but I'm passionate about coding and excited to start some big projects.
 
 #### 🛠️ Tech Skills:
-- **C++**: Completed a course at university.
-- **JavaScript**: Gained experience through a high school class.
-- **Java**: Currently taking a class!
-- **Python**: Self-taught and always looking for ways to improve.
+- **C++**: College course.
+- **JavaScript**: High school class.
+- **Java**: College Course!
+- **Python**: Explored for a small project.
+- **SQL**: College course.
 
 #### 🌱 Interests:
 - Enjoy spending time with friends and being around people.
+- Diving into random things I learn in class from time to time
 
 #### 📫 Connect with Me:
-- Feel free to reach out if you'd like to collaborate, chat, or just say hi!
+- Feel free to reach out!
 - **School email:** Isguil02@wsc.edu
 - **Personal email:** Isguill06@gmail.com
